@@ -1,0 +1,5 @@
+/target
+.idea
+*.iml
+/logs/
+/catalina.base_IS_UNDEFINED
